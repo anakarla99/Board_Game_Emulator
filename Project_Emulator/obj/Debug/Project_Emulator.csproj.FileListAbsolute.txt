@@ -1,0 +1,22 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project_Emolator\Visual_Interface\bin\Debug\Visual_Interface.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project_Emolator\Visual_Interface\bin\Debug\Visual_Interface.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project_Emolator\Visual_Interface\bin\Debug\Visual_Interface.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project_Emolator\Visual_Interface\obj\Debug\Project_Emulator.Game_Emulator.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project_Emolator\Visual_Interface\obj\Debug\Project_Emulator.Bitacora.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project_Emolator\Visual_Interface\obj\Debug\Visual_Interface.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project_Emolator\Visual_Interface\obj\Debug\Project_Emulator.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project_Emolator\Visual_Interface\obj\Debug\Visual_Interface.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project_Emolator\Visual_Interface\obj\Debug\Visual_Interface.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project_Emolator\Visual_Interface\obj\Debug\Project_Emulator.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Ana Karla\Project_Emulator\bin\Debug\Visual_Interface.exe.config
+C:\Users\user\Desktop\Ana Karla\Project_Emulator\bin\Debug\Visual_Interface.exe
+C:\Users\user\Desktop\Ana Karla\Project_Emulator\bin\Debug\Visual_Interface.pdb
+C:\Users\user\Desktop\Ana Karla\Project_Emulator\obj\Debug\Project_Emulator.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Ana Karla\Project_Emulator\obj\Debug\Project_Emulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Ana Karla\Project_Emulator\obj\Debug\Project_Emulator.Game_Emulator.resources
+C:\Users\user\Desktop\Ana Karla\Project_Emulator\obj\Debug\Project_Emulator.Bitacora.resources
+C:\Users\user\Desktop\Ana Karla\Project_Emulator\obj\Debug\Visual_Interface.Properties.Resources.resources
+C:\Users\user\Desktop\Ana Karla\Project_Emulator\obj\Debug\Project_Emulator.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Ana Karla\Project_Emulator\obj\Debug\Project_Emulator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Ana Karla\Project_Emulator\obj\Debug\Visual_Interface.exe
+C:\Users\user\Desktop\Ana Karla\Project_Emulator\obj\Debug\Visual_Interface.pdb
